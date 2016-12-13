@@ -113,3 +113,7 @@ footer {
 .navbar-inverse .navbar-nav > li:hover {
     background: rgba(102, 204, 255, .7);
 }
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
