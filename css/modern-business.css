@@ -105,3 +105,11 @@ footer {
         height: 70%;
     }
 }
+
+.navbar-default .navbar-nav > .active > a {
+    background: lightblue;
+}
+
+.navbar-inverse .navbar-nav > li:hover {
+    background: rgba(102, 204, 255, .7);
+}
